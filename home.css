@@ -1,0 +1,31 @@
+html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: black;
+}
+.do{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.img{
+
+    width: 30%;
+    height: 500px;
+    margin: 100px auto;
+    display: inline-block;
+}
+
+.div1{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    color: brown;
+    margin-left: 100px;
+    margin-bottom: 50px;
+    background-color: black;
+}
+
